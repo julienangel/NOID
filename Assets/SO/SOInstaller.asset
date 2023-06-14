@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a8b62c78b858a4da541ffea301d944, type: 3}
+  m_Name: SOInstaller
+  m_EditorClassIdentifier: 
+  _gameTimeVariable: {fileID: 11400000, guid: 5c3e4e60747300b419b9caef1636b18c, type: 2}
+  _recordingIntervalVariable: {fileID: 11400000, guid: 5dce4d01c8565a04bb6bf288ef5cabab, type: 2}
+  _gameobjectToFollowVariable: {fileID: 11400000, guid: 0986b1097be670247926f4f4b40b2441, type: 2}
+  _gameStartedEvent: {fileID: 11400000, guid: b282fe6a35bb7004a890ca6c674e4c03, type: 2}
+  _gameFinishedEvent: {fileID: 11400000, guid: 862644f81945b0742ace726c93394d8b, type: 2}
+  _replayStartedEvent: {fileID: 11400000, guid: fc6d522a1a7360d4d8ced83f32e76a6d, type: 2}
+  _replayFinishedEvent: {fileID: 11400000, guid: 4cf92351d5fba2246a236344a1d46e7f, type: 2}
+  _countdownStartedEvent: {fileID: 11400000, guid: d393d522685ef6b4a9bf7f7598e5fb4c, type: 2}
+  _countdownFinishedEvent: {fileID: 11400000, guid: 724109ec3db61f5419a738451bba5463, type: 2}
